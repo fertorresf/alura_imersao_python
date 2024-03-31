@@ -1,4 +1,4 @@
-> ### Aula 01: Análise Exploratória com Google Sheets
+> # Aula 01: Análise Exploratória com Google Sheets
 
 Minha planilha: https://docs.google.com/spreadsheets/d/1b_ouPA7vxM9A3kWhhX34OOisPB_vyp69Yc3gcc7xz4k/edit?usp=sharing
 Meu notebook: https://colab.research.google.com/drive/1tAycBPj4pOgqgGNhfDkYoT6IfXprm7L3?usp=sharing
