@@ -30,7 +30,8 @@ One Compiller
 Biblioteca Matplotlib
 Acesse os modelos de gráficos Candlestick aqui
 
-Desafios desta aula
+> [!TIP]
+> ## Desafios desta aula
 
 Deseja ir além? Experimente este desafio:
 Pesquisar o que é uma tupla em Python;
