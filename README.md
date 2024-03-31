@@ -1,5 +1,4 @@
-# alura_imersao_python
-Imersão Python: Do Excel à Análise de Dados
+# Imersão Python: Do Excel à Análise de Dados
 
 > **Aula 01: Análise Exploratória com Google Sheets** <br>
 > **Aula 02: Gráficos e Análises com Google Colab e Python Pandas** <br>
