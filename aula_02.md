@@ -32,7 +32,8 @@ O que é o Google Colab?
 Pandas Python: o que é, pra que serve e como instalar
 Guia de Python
 
-Desafios desta aula
+> [!TIP]
+> # Desafios desta aula
 
 Deseja ir além? Experimente este desafio:
 Crie um gráfico de barras olhando a faixa etária e o valor da variação;
