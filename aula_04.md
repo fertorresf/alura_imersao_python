@@ -2,6 +2,7 @@
 
 Minha planilha: https://docs.google.com/spreadsheets/d/1b_ouPA7vxM9A3kWhhX34OOisPB_vyp69Yc3gcc7xz4k/edit?usp=sharing
 Meu notebook: https://colab.research.google.com/drive/1tAycBPj4pOgqgGNhfDkYoT6IfXprm7L3?usp=sharing
+Meu Notebook2: https://colab.research.google.com/drive/1TiwQLwOv-jALqkOXueGGdMtNQYfDgj8V?usp=sharing
 
 ANÁLISES AVANÇADAS DE AÇÕES E GRÁFICOS DE VELAS
 PARTICIPE E VÁ MAIS FUNDO
