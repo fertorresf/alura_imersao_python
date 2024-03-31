@@ -7,7 +7,7 @@ ANÁLISE EXPLORATÓRIA COM GOOGLE SHEETS
 PARTICIPE E VÁ MAIS FUNDO
 Boas-vindas! Chegou a hora de mergulhar na Imersão Python e dar um novo passo na sua carreira!
 
-Introdução
+## Introdução
 
 Nesta aula, vamos começar a nossa análise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP, SUMIF e muitas outras fórmulas, além de usarmos o Chat GPT durante a aula.
 
@@ -18,7 +18,7 @@ Usar o Chat GPT;
 Gerar tabelas e cálculos de estatísticas como Máximo, Mínimo e Média.
 Fique até o final da aula e descubra insights e orientações exclusivas para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 
-Link do projeto base:
+## Link do projeto base:
 Faça uma cópia da planilha utilizada para a análise aqui
 
 Guia de Mergulho da Imersão Python!
@@ -44,7 +44,7 @@ O que é IA generativa?
 Tendências e inovações no mercado financeiro | Hipsters
 ChatGPT: dicas e como usar
 
-Como compartilhar seu Projeto
+## Como compartilhar seu Projeto
 
 Compartilhe seu codespace com outras pessoas pelo GitHub:
 Na página inicial do GitHub, clique no botão "New" (Novo) localizado no canto superior direito;
@@ -54,23 +54,24 @@ Você pode especificar tipos de arquivos que o Git deve ignorar ao rastrear alte
 Se o seu projeto se encaixa em um dos modelos de projeto disponíveis, você pode escolher um para iniciar com estrutura pré-definida;
 Após preencher todas as informações necessárias, clique no botão "Create repository" (Criar repositório) para criar o seu repositório;
 Para saber mais, confira os primeiros passos no GitHub.
-Divulgue seu projeto
+
+### Divulgue seu projeto
 Mostre o seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a Alura (@AluraOnline). Vamos adorar ver os seus projetos e acompanhar a sua evolução! Lembre-se de utilizar a hashtag #Imersao-python-alura para que o seu projeto alcance ainda mais pessoas.
 
 Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
 
-QUEM SÃO OS MERGULHADORES?
+## QUEM SÃO OS MERGULHADORES?
 INSTRUTORES E INSTRUTORAS DA ALURA NESSA IMERSÃO
-Fabrício Carraro
+### Fabrício Carraro
 Product Manager @ Alura
 https://www.linkedin.com/in/fabriciocarraro/
 https://github.com/fabriciocarraro
 https://twitter.com/fabriciocarraro
 
-Matheus Freitas
+### Matheus Freitas
 Analista de Dados na XP
 https://www.linkedin.com/in/matheusfsa/
 
-David Camurça
+### David Camurça
 Analista de Dados na Bemol.
 https://www.linkedin.com/in/davidscamurca/
