@@ -61,3 +61,4 @@ https://www.linkedin.com/in/matheusfsa/
 ### David Camurça
 Analista de Dados na Bemol.
 https://www.linkedin.com/in/davidscamurca/
+<i class="ci ci-spotify ci-2x"></i>
