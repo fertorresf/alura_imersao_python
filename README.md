@@ -6,6 +6,8 @@
 > **Aula 04: Análises Avançadas de Ações e Gráficos de Velas** <br>
 > **Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados** <br>
 
+Minha planilha: https://docs.google.com/spreadsheets/d/1b_ouPA7vxM9A3kWhhX34OOisPB_vyp69Yc3gcc7xz4k/edit?usp=sharing Meu notebook: https://colab.research.google.com/drive/1tAycBPj4pOgqgGNhfDkYoT6IfXprm7L3?usp=sharing
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
