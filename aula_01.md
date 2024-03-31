@@ -7,7 +7,7 @@ ANÁLISE EXPLORATÓRIA COM GOOGLE SHEETS
 PARTICIPE E VÁ MAIS FUNDO
 Boas-vindas! Chegou a hora de mergulhar na Imersão Python e dar um novo passo na sua carreira!
 
-## Introdução
+> ## Introdução
 
 Nesta aula, vamos começar a nossa análise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP, SUMIF e muitas outras fórmulas, além de usarmos o Chat GPT durante a aula.
 
