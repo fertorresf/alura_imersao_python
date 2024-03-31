@@ -33,7 +33,7 @@ Pandas Python: o que é, pra que serve e como instalar
 Guia de Python
 
 > [!TIP]
-> # Desafios desta aula
+> ## Desafios desta aula
 
 Deseja ir além? Experimente este desafio:
 Crie um gráfico de barras olhando a faixa etária e o valor da variação;
