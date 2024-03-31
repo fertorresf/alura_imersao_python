@@ -30,7 +30,8 @@ ChatGPT
 Guia de Python
 Documentação Pandas GroupBy
 
-Desafios desta aula
+> [!TIP]
+> ## Desafios desta aula
 
 Deseja ir além? Experimente este desafio:
 Pesquise com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
