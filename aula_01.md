@@ -27,7 +27,8 @@ Acesse o Google Sheets aqui
 ChatGPT
 Google Gemini
 
-Desafios desta aula
+> [!TIP]
+> ## Desafios desta aula
 
 Deseja ir além? Experimente este desafio:
 Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
